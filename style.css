@@ -14,3 +14,8 @@ section{
 .chamada-texto{
     margin-right: 100px;
 }
+.categoria-videos{
+    display: flex; 
+    overflow-x: auto;
+    gap: 20px;
+}
